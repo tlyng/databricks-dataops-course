@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC A job is just a description of the job, a job run is one execution of it
 
 # COMMAND ----------
 
@@ -60,7 +60,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC `{org}_{domain}_{project}_{flow}_{env}-{repo}`
 
 # COMMAND ----------
 
@@ -72,7 +72,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC deployment.yml
 
 # COMMAND ----------
 
